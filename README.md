@@ -25,3 +25,12 @@ Flight punctuality and delay analysis.
 Customer satisfaction scores by airline and flight route.
 Financial performance (revenue per flight, cost analysis).
 Tools Used: Power BI, DAX for KPI calculations, custom themes for visual appeal, and interactive slicers for detailed insights.
+
+4. Electric Vehicle Analysis
+Objective: The main objective of the **Electric Vehicle Analysis Dashboard** is to provide a comprehensive visual and analytical representation of electric vehicle (EV) trends from 2010 onwards. The dashboard helps users to understand market growth, geographical distribution, brand dominance, and the impact of incentives on EV adoption.
+Key Features:
+Total Vehicles by Model Year (2010 Onwards)
+Total Vehicles by State
+Top 10 Total Vehicles by Make
+Total Vehicles by CAFV Eligibility
+Top 10 Total Vehicles by Model
